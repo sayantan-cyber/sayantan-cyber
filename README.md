@@ -35,4 +35,4 @@ Aspiring **Data Analyst / Business Analyst / BI Analyst**. I turn raw data into 
 ### Contact
 
 - **LinkedIn:** [linkedin.com/in/sayantan-khatua-a61399383](https://www.linkedin.com/in/sayantan-khatua-a61399383)
-- **Email:** sukumarkhatua439@gmail.com
+- **Email:** sayantan99999999999@gmail.com

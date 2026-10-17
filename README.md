@@ -12,12 +12,11 @@ Aspiring **Data Analyst / Business Analyst / BI Analyst**. I turn raw data into 
 
 | Area | Tools & Techniques |
 |---|---|
-| Spreadsheets | Excel — PivotTables, XLOOKUP, SUMIFS, dashboards |
 | Databases | SQL / MySQL — CTEs, window functions, cohort & RFM analysis |
-| Programming | Python — Pandas, NumPy, Matplotlib; reproducible pipelines |
-| BI & Visualization | Power BI — DAX, star-schema data modeling, KPI dashboards |
-| Statistics | Hypothesis testing, regression, time-series forecasting |
-| Currently learning | IBM Cognos |
+| Programming | Python — Pandas, DuckDB; validation pipelines, statistical testing, forecasting |
+| BI & Visualization | Power BI — DAX measures, star-schema data modeling |
+| Spreadsheets | Excel — PivotTables, XLOOKUP, SUMIFS; dashboard builds in progress |
+| Statistics | Hypothesis testing, effect sizes, regression, time-series with holdout benchmarks |
 
 ---
 

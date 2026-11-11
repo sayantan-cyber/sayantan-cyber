@@ -32,6 +32,12 @@ Aspiring **Data Analyst / Business Analyst / BI Analyst**. I turn raw data into 
 
 ---
 
+### Certifications
+
+- **Certificate of Participation — Kolkata Tech Workshop, Kshitij 2027** · IIT Kharagpur (Nov 2026) — [Verify credential](https://gymkhana.iitkgp.ac.in/certifgen/view/NmFlZjgzOTc3MTRmZWJmMjJjZGEyNWJh)
+
+---
+
 ### Contact
 
 - **LinkedIn:** [linkedin.com/in/sayantan-khatua-a61399383](https://www.linkedin.com/in/sayantan-khatua-a61399383)
